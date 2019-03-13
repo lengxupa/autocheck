@@ -1,0 +1,165 @@
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixx/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/fixy/replicate/deform/deform/stable/stable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M380 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M380/npt/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cooltmp/deformtmp/stabletmp/nptstabletmp/nptstabletmp/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixx nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixx/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M400 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M400/npt/npt/nptcontinue/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/cool/cool/nptgrowstable/nptgrow/nptgrownew/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M340 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M340/npt/nptcontinue/nptcontinue/fixy/replicate/deform/deform/stable/nptstable/nptstable/nptstable/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/cool/nptgrowstable/nptgrow/nptgrownew1/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow
+PE43 M360 fixy nptgrow failed
+timeout
+/scratch/halstead/s/shen276/20180419/PE43/crystal/nm/fix1/M360/npt/fixy/replicate/deform/deform/stable/nptstable/cool/nptgrowstable/nptgrow/nptgrownew0/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow/nptgrow

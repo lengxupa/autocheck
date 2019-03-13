@@ -1,0 +1,6 @@
+cd /scratch/conte/s/shen276/20170530/check
+python autocheck.py
+This job's walltime is longer than the time to the next maintenance period.
+Therefore it will not run until after the next maintenance period ends.
+If you want to run now, use a walltime shorter than 141 hours, 40 minutes, and 52 seconds.
+

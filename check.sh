@@ -1,0 +1,1 @@
+for x in autocheck.e*; do echo $x; diff aa.txt $x; done

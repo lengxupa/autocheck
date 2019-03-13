@@ -1,0 +1,54 @@
+units   real
+atom_style        full
+boundary          p p p
+special_bonds     lj/coul 0.0 0.0 1.0 dihedral yes extra 10
+dielectric        1.0
+pair_style        lj/cut  12.0
+bond_style        harmonic
+angle_style       harmonic
+dihedral_style    harmonic
+improper_style    harmonic
+read_data         polymer_relax.data
+neighbor          0.3 bin
+thermo_style      custom step etotal ke temp pe ebond eangle edihed eimp evdwl ecoul elong press pxx pyy pzz pxy pxz pyz lx ly lz density
+thermo            10
+thermo_modify     flush yes
+
+
+pair_style        buck/coul/long  12.0 12.0
+kspace_style      pppm 1e-4
+pair_coeff	1 	1 	3407.78599213 0.258035858504 31.3691508534   # H_  H_
+pair_coeff	1 	2 	17353.2373206 0.267542023409 135.235974836   # H_  C_3
+pair_coeff	2 	2 	88366.7126395 0.277775402594 583.017658827   # C_3  C_3
+
+group 1 molecule 1:49 #group 1 region 1
+
+group 2 subtract all 1 
+
+#velocity        all create 300.0 136424515 loop geom rot yes dist gaussian
+velocity 1 zero angular
+velocity 1 zero linear
+#velocity 2 zero angular
+#velocity 2 zero linear
+
+reset_timestep 0
+
+dump              1 all atom 100 md.dump
+dump              2 all atom 10 Detailed.dump
+dump              3 all atom 5000 md.*.dump 
+dump 4 all xyz 5000 x.xyz
+dump_modify       1 image yes scale no
+
+fix              2 all rigid group 1 1 force * off off off torque * off off off
+fix 1 2 npt temp 800.0 800.0 100.0 x 1 1 1000 y 1 1 1000 #z 1 1 1000 #couple xy #iso 1 1 1000
+#fix              3 2 nvt temp 300 300 100
+
+#fix d1 all deform 1 z final 297.803508067 328.356491933
+
+
+run 100 #              500000
+undump 1
+
+unfix 1
+
+write_data step4.data
